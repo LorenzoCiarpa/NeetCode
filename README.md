@@ -490,10 +490,7 @@ Per rigenerare in locale: `python utils/update_progress.py`
 L'idea della dashboard di progresso nel README (contatori per difficoltà + tabella per
 pattern con barre ASCII) è ripresa dal repository
 [cris96spa/LeetCode](https://github.com/cris96spa/LeetCode) di
-[Cristian C. Spagnuolo](https://github.com/cris96spa), che usa lo stesso approccio a
-blocco iniettato tra marker (`utils/update_progress.py` + un JSON di mapping) su una
-struttura di cartelle `Easy/Medium/Hard`. Qui la logica è adattata alla struttura
-generata dal GitHub Sync di NeetCode e all'esecuzione via GitHub Actions.
+[Cristian C. Spagnuolo](https://github.com/cris96spa).
 
 Le liste di problemi e i relativi pattern provengono da [NeetCode.io](https://neetcode.io).
 
