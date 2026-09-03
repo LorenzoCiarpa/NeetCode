@@ -1,0 +1,20 @@
+{
+  "_comment": [
+    "Override e aggiunte al catalogo. Vince su neetcode_catalog.json.",
+    "Serve per: problemi nuovi non ancora nel catalogo, slug NeetCode diversi",
+    "da quelli previsti, correzioni di pattern o difficolta'.",
+    "",
+    "Per popolarlo: python utils/update_progress.py --report",
+    "stampa gli slug non mappati gia' in questo formato, pronti da incollare",
+    "dentro 'problems'. Poi correggi name / difficulty / pattern a mano.",
+    "",
+    "difficulty: Easy | Medium | Hard",
+    "lists: ['all'] oppure ['neetcode250', 'all'] se fa parte anche dei 250",
+    "aliases: slug-alternativo -> slug-canonico (per non contare due volte",
+    "lo stesso problema sincronizzato sotto due nomi)"
+  ],
+
+  "problems": {},
+
+  "aliases": {}
+}

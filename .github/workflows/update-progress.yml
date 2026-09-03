@@ -1,0 +1,47 @@
+name: Update progress dashboard
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "README.md"
+  workflow_dispatch:
+  schedule:
+    # rete di sicurezza giornaliera, alle 04:00 UTC
+    - cron: "0 4 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-progress
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    # evita che il commit del bot ritrigghi il workflow all'infinito
+    if: github.actor != 'github-actions[bot]'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Regenerate dashboard
+        run: python utils/update_progress.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- README.md; then
+            echo "Nessuna modifica al README."
+            exit 0
+          fi
+          git add README.md
+          git commit -m "chore: update progress dashboard [skip ci]"
+          git push
