@@ -412,7 +412,7 @@ la versione finale.
 </details>
 
 
-### Fuori lista &nbsp;·&nbsp; 10
+### Fuori lista &nbsp;·&nbsp; 11
 
 <details>
 <summary>Risolti ma non presenti in NeetCode 250</summary>
@@ -422,6 +422,7 @@ la versione finale.
 | Design Browser History | 🟡 Medium | Linked List |
 | Design Linked List | 🟡 Medium | Linked List |
 | Find Pivot Index | 🟢 Easy | Arrays & Hashing |
+| Maximum Twin Sum Of A Linked List | 🟡 Medium | Linked List |
 | Middle of the Linked List | 🟢 Easy | Linked List |
 | Number of Sub Arrays of Size K and Avg Greater than or Equal to Threshold | 🟡 Medium | Sliding Window |
 | Path Sum | 🟢 Easy | Trees |
