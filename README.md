@@ -21,13 +21,13 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 47 / 250 &nbsp;·&nbsp; 19%
+### NeetCode 250 &nbsp;·&nbsp; 48 / 250 &nbsp;·&nbsp; 19%
 
 `█████░░░░░░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **23** | **24** | **0** |
+| **Risolti** | **23** | **25** | **0** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
@@ -42,7 +42,7 @@ la versione finale.
 | Tries | 2 | 4 | `██████░░░░░░` 50% |
 | Heap / Priority Queue | 3 | 12 | `███░░░░░░░░░` 25% |
 | Backtracking | 1 | 16 | `█░░░░░░░░░░░` 6% |
-| Graphs | 3 | 21 | `██░░░░░░░░░░` 14% |
+| Graphs | 4 | 21 | `██░░░░░░░░░░` 19% |
 | Advanced Graphs | 0 | 10 | `░░░░░░░░░░░░` 0% |
 | 1-D Dynamic Programming | 2 | 17 | `█░░░░░░░░░░░` 12% |
 | 2-D Dynamic Programming | 2 | 16 | `██░░░░░░░░░░` 12% |
@@ -256,7 +256,7 @@ la versione finale.
 </details>
 
 <details>
-<summary><b>Graphs</b> &nbsp;·&nbsp; 3/21 (14%)</summary>
+<summary><b>Graphs</b> &nbsp;·&nbsp; 4/21 (19%)</summary>
 
 - [ ] 🟡 [Accounts Merge](https://neetcode.io/problems/accounts-merge)
 - [ ] 🟡 [Clone Graph](https://neetcode.io/problems/clone-graph)
@@ -273,7 +273,7 @@ la versione finale.
 - [x] 🟡 [Number of Islands](https://neetcode.io/problems/count-number-of-islands)
 - [ ] 🟡 [Open The Lock](https://neetcode.io/problems/open-the-lock)
 - [ ] 🟡 [Pacific Atlantic Water Flow](https://neetcode.io/problems/pacific-atlantic-water-flow)
-- [ ] 🟡 [Redundant Connection](https://neetcode.io/problems/redundant-connection)
+- [x] 🟡 [Redundant Connection](https://neetcode.io/problems/redundant-connection)
 - [x] 🟡 [Rotting Oranges](https://neetcode.io/problems/rotting-fruit)
 - [ ] 🟡 [Surrounded Regions](https://neetcode.io/problems/surrounded-regions)
 - [ ] 🟢 [Verifying An Alien Dictionary](https://neetcode.io/problems/verifying-an-alien-dictionary)
