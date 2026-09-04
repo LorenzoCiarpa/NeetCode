@@ -412,7 +412,7 @@ la versione finale.
 </details>
 
 
-### Fuori lista &nbsp;·&nbsp; 12
+### Fuori lista &nbsp;·&nbsp; 13
 
 <details>
 <summary>Risolti ma non presenti in NeetCode 250</summary>
@@ -427,6 +427,7 @@ la versione finale.
 | Middle of the Linked List | 🟢 Easy | Linked List |
 | Number of Sub Arrays of Size K and Avg Greater than or Equal to Threshold | 🟡 Medium | Sliding Window |
 | Path Sum | 🟢 Easy | Trees |
+| Path with Maximum Probability | 🟡 Medium | Advanced Graphs |
 | Range Sum Query - Immutable | 🟢 Easy | Arrays & Hashing |
 | Remove Duplicates From Sorted Array II | 🟡 Medium | Two Pointers |
 | Replace Elements With Greatest Element On Right Side | 🟢 Easy | Arrays & Hashing |
