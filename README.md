@@ -412,13 +412,14 @@ la versione finale.
 </details>
 
 
-### Fuori lista &nbsp;·&nbsp; 11
+### Fuori lista &nbsp;·&nbsp; 12
 
 <details>
 <summary>Risolti ma non presenti in NeetCode 250</summary>
 
 | Problema | Difficoltà | Pattern |
 |----------|:----------:|---------|
+| Binary Search Tree Iterator | 🟡 Medium | Trees |
 | Design Browser History | 🟡 Medium | Linked List |
 | Design Linked List | 🟡 Medium | Linked List |
 | Find Pivot Index | 🟢 Easy | Arrays & Hashing |
