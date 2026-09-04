@@ -21,13 +21,13 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 52 / 250 &nbsp;·&nbsp; 21%
+### NeetCode 250 &nbsp;·&nbsp; 53 / 250 &nbsp;·&nbsp; 21%
 
 `█████░░░░░░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **25** | **26** | **1** |
+| **Risolti** | **25** | **27** | **1** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
@@ -41,7 +41,7 @@ la versione finale.
 | Trees | 8 | 23 | `████░░░░░░░░` 35% |
 | Tries | 2 | 4 | `██████░░░░░░` 50% |
 | Heap / Priority Queue | 4 | 12 | `████░░░░░░░░` 33% |
-| Backtracking | 2 | 16 | `██░░░░░░░░░░` 12% |
+| Backtracking | 3 | 16 | `██░░░░░░░░░░` 19% |
 | Graphs | 4 | 21 | `██░░░░░░░░░░` 19% |
 | Advanced Graphs | 0 | 10 | `░░░░░░░░░░░░` 0% |
 | 1-D Dynamic Programming | 2 | 17 | `█░░░░░░░░░░░` 12% |
@@ -234,11 +234,11 @@ la versione finale.
 </details>
 
 <details>
-<summary><b>Backtracking</b> &nbsp;·&nbsp; 2/16 (12%)</summary>
+<summary><b>Backtracking</b> &nbsp;·&nbsp; 3/16 (19%)</summary>
 
 - [ ] 🟡 [Combination Sum](https://neetcode.io/problems/combination-target-sum)
 - [ ] 🟡 [Combination Sum II](https://neetcode.io/problems/combination-target-sum-ii)
-- [ ] 🟡 [Combinations](https://neetcode.io/problems/combinations)
+- [x] 🟡 [Combinations](https://neetcode.io/problems/combinations)
 - [ ] 🟡 [Letter Combinations of a Phone Number](https://neetcode.io/problems/combinations-of-a-phone-number)
 - [ ] 🟡 [Matchsticks to Square](https://neetcode.io/problems/matchsticks-to-square)
 - [ ] 🔴 [N Queens](https://neetcode.io/problems/n-queens)
