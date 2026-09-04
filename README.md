@@ -21,13 +21,13 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 45 / 250 &nbsp;·&nbsp; 18%
+### NeetCode 250 &nbsp;·&nbsp; 46 / 250 &nbsp;·&nbsp; 18%
 
 `████░░░░░░░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **23** | **22** | **0** |
+| **Risolti** | **23** | **23** | **0** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
@@ -39,7 +39,7 @@ la versione finale.
 | Binary Search | 4 | 14 | `███░░░░░░░░░` 29% |
 | Linked List | 3 | 14 | `███░░░░░░░░░` 21% |
 | Trees | 6 | 23 | `███░░░░░░░░░` 26% |
-| Tries | 0 | 4 | `░░░░░░░░░░░░` 0% |
+| Tries | 1 | 4 | `███░░░░░░░░░` 25% |
 | Heap / Priority Queue | 3 | 12 | `███░░░░░░░░░` 25% |
 | Backtracking | 1 | 16 | `█░░░░░░░░░░░` 6% |
 | Graphs | 3 | 21 | `██░░░░░░░░░░` 14% |
@@ -206,11 +206,11 @@ la versione finale.
 </details>
 
 <details>
-<summary><b>Tries</b> &nbsp;·&nbsp; 0/4 (0%)</summary>
+<summary><b>Tries</b> &nbsp;·&nbsp; 1/4 (25%)</summary>
 
 - [ ] 🟡 [Design Add And Search Words Data Structure](https://neetcode.io/problems/design-word-search-data-structure)
 - [ ] 🟡 [Extra Characters in a String](https://neetcode.io/problems/extra-characters-in-a-string)
-- [ ] 🟡 [Implement Trie Prefix Tree](https://neetcode.io/problems/implement-prefix-tree)
+- [x] 🟡 [Implement Trie Prefix Tree](https://neetcode.io/problems/implement-prefix-tree)
 - [ ] 🔴 [Word Search II](https://neetcode.io/problems/search-for-word-ii)
 
 </details>
