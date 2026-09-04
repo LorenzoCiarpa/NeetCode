@@ -21,13 +21,13 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 50 / 250 &nbsp;·&nbsp; 20%
+### NeetCode 250 &nbsp;·&nbsp; 51 / 250 &nbsp;·&nbsp; 20%
 
 `█████░░░░░░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **25** | **25** | **0** |
+| **Risolti** | **25** | **25** | **1** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
@@ -40,7 +40,7 @@ la versione finale.
 | Linked List | 3 | 14 | `███░░░░░░░░░` 21% |
 | Trees | 8 | 23 | `████░░░░░░░░` 35% |
 | Tries | 2 | 4 | `██████░░░░░░` 50% |
-| Heap / Priority Queue | 3 | 12 | `███░░░░░░░░░` 25% |
+| Heap / Priority Queue | 4 | 12 | `████░░░░░░░░` 33% |
 | Backtracking | 1 | 16 | `█░░░░░░░░░░░` 6% |
 | Graphs | 4 | 21 | `██░░░░░░░░░░` 19% |
 | Advanced Graphs | 0 | 10 | `░░░░░░░░░░░░` 0% |
@@ -216,11 +216,11 @@ la versione finale.
 </details>
 
 <details>
-<summary><b>Heap / Priority Queue</b> &nbsp;·&nbsp; 3/12 (25%)</summary>
+<summary><b>Heap / Priority Queue</b> &nbsp;·&nbsp; 4/12 (33%)</summary>
 
 - [ ] 🟡 [Car Pooling](https://neetcode.io/problems/car-pooling)
 - [ ] 🟡 [Design Twitter](https://neetcode.io/problems/design-twitter-feed)
-- [ ] 🔴 [Find Median From Data Stream](https://neetcode.io/problems/find-median-in-a-data-stream)
+- [x] 🔴 [Find Median From Data Stream](https://neetcode.io/problems/find-median-in-a-data-stream)
 - [ ] 🔴 [IPO](https://neetcode.io/problems/ipo)
 - [ ] 🟡 [K Closest Points to Origin](https://neetcode.io/problems/k-closest-points-to-origin)
 - [x] 🟡 [Kth Largest Element In An Array](https://neetcode.io/problems/kth-largest-element-in-an-array)
