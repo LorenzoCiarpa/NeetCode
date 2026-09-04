@@ -21,13 +21,13 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 48 / 250 &nbsp;·&nbsp; 19%
+### NeetCode 250 &nbsp;·&nbsp; 49 / 250 &nbsp;·&nbsp; 20%
 
 `█████░░░░░░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **23** | **25** | **0** |
+| **Risolti** | **24** | **25** | **0** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
@@ -38,7 +38,7 @@ la versione finale.
 | Stack | 3 | 15 | `██░░░░░░░░░░` 20% |
 | Binary Search | 4 | 14 | `███░░░░░░░░░` 29% |
 | Linked List | 3 | 14 | `███░░░░░░░░░` 21% |
-| Trees | 6 | 23 | `███░░░░░░░░░` 26% |
+| Trees | 7 | 23 | `████░░░░░░░░` 30% |
 | Tries | 2 | 4 | `██████░░░░░░` 50% |
 | Heap / Priority Queue | 3 | 12 | `███░░░░░░░░░` 25% |
 | Backtracking | 1 | 16 | `█░░░░░░░░░░░` 6% |
@@ -177,14 +177,14 @@ la versione finale.
 </details>
 
 <details>
-<summary><b>Trees</b> &nbsp;·&nbsp; 6/23 (26%)</summary>
+<summary><b>Trees</b> &nbsp;·&nbsp; 7/23 (30%)</summary>
 
 - [x] 🟢 [Balanced Binary Tree](https://neetcode.io/problems/balanced-binary-tree)
 - [x] 🟢 [Binary Tree Inorder Traversal](https://neetcode.io/problems/binary-tree-inorder-traversal)
 - [ ] 🟡 [Binary Tree Level Order Traversal](https://neetcode.io/problems/level-order-traversal-of-binary-tree)
 - [ ] 🔴 [Binary Tree Maximum Path Sum](https://neetcode.io/problems/binary-tree-maximum-path-sum)
 - [ ] 🟢 [Binary Tree Postorder Traversal](https://neetcode.io/problems/binary-tree-postorder-traversal)
-- [ ] 🟢 [Binary Tree Preorder Traversal](https://neetcode.io/problems/binary-tree-preorder-traversal)
+- [x] 🟢 [Binary Tree Preorder Traversal](https://neetcode.io/problems/binary-tree-preorder-traversal)
 - [x] 🟡 [Binary Tree Right Side View](https://neetcode.io/problems/binary-tree-right-side-view)
 - [ ] 🟡 [Construct Binary Tree From Preorder And Inorder Traversal](https://neetcode.io/problems/binary-tree-from-preorder-and-inorder-traversal)
 - [ ] 🟡 [Construct Quad Tree](https://neetcode.io/problems/construct-quad-tree)
