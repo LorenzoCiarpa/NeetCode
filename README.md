@@ -21,13 +21,13 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 68 / 250 &nbsp;·&nbsp; 27%
+### NeetCode 250 &nbsp;·&nbsp; 69 / 250 &nbsp;·&nbsp; 28%
 
 `███████░░░░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **31** | **36** | **1** |
+| **Risolti** | **32** | **36** | **1** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
@@ -44,7 +44,7 @@ la versione finale.
 | Backtracking | 6 | 16 | `████░░░░░░░░` 38% |
 | Graphs | 7 | 21 | `████░░░░░░░░` 33% |
 | Advanced Graphs | 2 | 10 | `██░░░░░░░░░░` 20% |
-| 1-D Dynamic Programming | 3 | 17 | `██░░░░░░░░░░` 18% |
+| 1-D Dynamic Programming | 4 | 17 | `███░░░░░░░░░` 24% |
 | 2-D Dynamic Programming | 2 | 16 | `██░░░░░░░░░░` 12% |
 | Greedy | 2 | 14 | `██░░░░░░░░░░` 14% |
 | Intervals | 0 | 7 | `░░░░░░░░░░░░` 0% |
@@ -299,7 +299,7 @@ la versione finale.
 </details>
 
 <details>
-<summary><b>1-D Dynamic Programming</b> &nbsp;·&nbsp; 3/17 (18%)</summary>
+<summary><b>1-D Dynamic Programming</b> &nbsp;·&nbsp; 4/17 (24%)</summary>
 
 - [x] 🟢 [Climbing Stairs](https://neetcode.io/problems/climbing-stairs)
 - [ ] 🟡 [Coin Change](https://neetcode.io/problems/coin-change)
@@ -311,7 +311,7 @@ la versione finale.
 - [ ] 🟡 [Longest Increasing Subsequence](https://neetcode.io/problems/longest-increasing-subsequence)
 - [x] 🟡 [Longest Palindromic Substring](https://neetcode.io/problems/longest-palindromic-substring)
 - [ ] 🟡 [Maximum Product Subarray](https://neetcode.io/problems/maximum-product-subarray)
-- [ ] 🟢 [Min Cost Climbing Stairs](https://neetcode.io/problems/min-cost-climbing-stairs)
+- [x] 🟢 [Min Cost Climbing Stairs](https://neetcode.io/problems/min-cost-climbing-stairs)
 - [ ] 🟢 [N-th Tribonacci Number](https://neetcode.io/problems/n-th-tribonacci-number)
 - [ ] 🟡 [Palindromic Substrings](https://neetcode.io/problems/palindromic-substrings)
 - [ ] 🟡 [Partition Equal Subset Sum](https://neetcode.io/problems/partition-equal-subset-sum)
