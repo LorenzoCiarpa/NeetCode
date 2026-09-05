@@ -21,20 +21,20 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 63 / 250 &nbsp;·&nbsp; 25%
+### NeetCode 250 &nbsp;·&nbsp; 64 / 250 &nbsp;·&nbsp; 26%
 
 `██████░░░░░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **26** | **36** | **1** |
+| **Risolti** | **27** | **36** | **1** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
 |---------|--------:|-------:|:----------|
 | Arrays & Hashing | 6 | 22 | `███░░░░░░░░░` 27% |
 | Two Pointers | 5 | 13 | `█████░░░░░░░` 38% |
-| Sliding Window | 3 | 9 | `████░░░░░░░░` 33% |
+| Sliding Window | 4 | 9 | `█████░░░░░░░` 44% |
 | Stack | 3 | 15 | `██░░░░░░░░░░` 20% |
 | Binary Search | 4 | 14 | `███░░░░░░░░░` 29% |
 | Linked List | 3 | 14 | `███░░░░░░░░░` 21% |
@@ -101,9 +101,9 @@ la versione finale.
 </details>
 
 <details>
-<summary><b>Sliding Window</b> &nbsp;·&nbsp; 3/9 (33%)</summary>
+<summary><b>Sliding Window</b> &nbsp;·&nbsp; 4/9 (44%)</summary>
 
-- [ ] 🟢 [Best Time to Buy And Sell Stock](https://neetcode.io/problems/buy-and-sell-crypto)
+- [x] 🟢 [Best Time to Buy And Sell Stock](https://neetcode.io/problems/buy-and-sell-crypto)
 - [x] 🟢 [Contains Duplicate II](https://neetcode.io/problems/contains-duplicate-ii)
 - [ ] 🟡 [Find K Closest Elements](https://neetcode.io/problems/find-k-closest-elements)
 - [ ] 🟡 [Longest Repeating Character Replacement](https://neetcode.io/problems/longest-repeating-substring-with-replacement)
