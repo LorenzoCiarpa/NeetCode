@@ -21,13 +21,13 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 67 / 250 &nbsp;·&nbsp; 27%
+### NeetCode 250 &nbsp;·&nbsp; 68 / 250 &nbsp;·&nbsp; 27%
 
-`██████░░░░░░░░░░░░░░░░░░`
+`███████░░░░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **30** | **36** | **1** |
+| **Risolti** | **31** | **36** | **1** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
@@ -38,7 +38,7 @@ la versione finale.
 | Stack | 3 | 15 | `██░░░░░░░░░░` 20% |
 | Binary Search | 4 | 14 | `███░░░░░░░░░` 29% |
 | Linked List | 3 | 14 | `███░░░░░░░░░` 21% |
-| Trees | 11 | 23 | `██████░░░░░░` 48% |
+| Trees | 12 | 23 | `██████░░░░░░` 52% |
 | Tries | 2 | 4 | `██████░░░░░░` 50% |
 | Heap / Priority Queue | 4 | 12 | `████░░░░░░░░` 33% |
 | Backtracking | 6 | 16 | `████░░░░░░░░` 38% |
@@ -177,7 +177,7 @@ la versione finale.
 </details>
 
 <details>
-<summary><b>Trees</b> &nbsp;·&nbsp; 11/23 (48%)</summary>
+<summary><b>Trees</b> &nbsp;·&nbsp; 12/23 (52%)</summary>
 
 - [x] 🟢 [Balanced Binary Tree](https://neetcode.io/problems/balanced-binary-tree)
 - [x] 🟢 [Binary Tree Inorder Traversal](https://neetcode.io/problems/binary-tree-inorder-traversal)
@@ -200,7 +200,7 @@ la versione finale.
 - [x] 🟢 [Maximum Depth of Binary Tree](https://neetcode.io/problems/depth-of-binary-tree)
 - [x] 🟢 [Same Tree](https://neetcode.io/problems/same-binary-tree)
 - [ ] 🔴 [Serialize And Deserialize Binary Tree](https://neetcode.io/problems/serialize-and-deserialize-binary-tree)
-- [ ] 🟢 [Subtree of Another Tree](https://neetcode.io/problems/subtree-of-a-binary-tree)
+- [x] 🟢 [Subtree of Another Tree](https://neetcode.io/problems/subtree-of-a-binary-tree)
 - [ ] 🟡 [Validate Binary Search Tree](https://neetcode.io/problems/valid-binary-search-tree)
 
 </details>
