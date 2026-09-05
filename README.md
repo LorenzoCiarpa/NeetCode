@@ -21,13 +21,13 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 72 / 250 &nbsp;·&nbsp; 29%
+### NeetCode 250 &nbsp;·&nbsp; 73 / 250 &nbsp;·&nbsp; 29%
 
 `███████░░░░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **35** | **36** | **1** |
+| **Risolti** | **36** | **36** | **1** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
@@ -49,7 +49,7 @@ la versione finale.
 | Greedy | 2 | 14 | `██░░░░░░░░░░` 14% |
 | Intervals | 0 | 7 | `░░░░░░░░░░░░` 0% |
 | Math & Geometry | 2 | 13 | `██░░░░░░░░░░` 15% |
-| Bit Manipulation | 4 | 10 | `█████░░░░░░░` 40% |
+| Bit Manipulation | 5 | 10 | `██████░░░░░░` 50% |
 
 ### Dettaglio per pattern
 
@@ -396,13 +396,13 @@ la versione finale.
 </details>
 
 <details>
-<summary><b>Bit Manipulation</b> &nbsp;·&nbsp; 4/10 (40%)</summary>
+<summary><b>Bit Manipulation</b> &nbsp;·&nbsp; 5/10 (50%)</summary>
 
 - [ ] 🟢 [Add Binary](https://neetcode.io/problems/add-binary)
 - [ ] 🟡 [Bitwise AND of Numbers Range](https://neetcode.io/problems/bitwise-and-of-numbers-range)
 - [x] 🟢 [Counting Bits](https://neetcode.io/problems/counting-bits)
 - [ ] 🟡 [Minimum Array End](https://neetcode.io/problems/minimum-array-end)
-- [ ] 🟢 [Missing Number](https://neetcode.io/problems/missing-number)
+- [x] 🟢 [Missing Number](https://neetcode.io/problems/missing-number)
 - [x] 🟢 [Number of 1 Bits](https://neetcode.io/problems/number-of-one-bits)
 - [x] 🟢 [Reverse Bits](https://neetcode.io/problems/reverse-bits)
 - [ ] 🟡 [Reverse Integer](https://neetcode.io/problems/reverse-integer)
