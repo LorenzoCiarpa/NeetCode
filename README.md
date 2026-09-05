@@ -21,13 +21,13 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 57 / 250 &nbsp;·&nbsp; 23%
+### NeetCode 250 &nbsp;·&nbsp; 58 / 250 &nbsp;·&nbsp; 23%
 
-`█████░░░░░░░░░░░░░░░░░░░`
+`██████░░░░░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **25** | **31** | **1** |
+| **Risolti** | **25** | **32** | **1** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
@@ -44,7 +44,7 @@ la versione finale.
 | Backtracking | 6 | 16 | `████░░░░░░░░` 38% |
 | Graphs | 4 | 21 | `██░░░░░░░░░░` 19% |
 | Advanced Graphs | 1 | 10 | `█░░░░░░░░░░░` 10% |
-| 1-D Dynamic Programming | 2 | 17 | `█░░░░░░░░░░░` 12% |
+| 1-D Dynamic Programming | 3 | 17 | `██░░░░░░░░░░` 18% |
 | 2-D Dynamic Programming | 2 | 16 | `██░░░░░░░░░░` 12% |
 | Greedy | 2 | 14 | `██░░░░░░░░░░` 14% |
 | Intervals | 0 | 7 | `░░░░░░░░░░░░` 0% |
@@ -299,7 +299,7 @@ la versione finale.
 </details>
 
 <details>
-<summary><b>1-D Dynamic Programming</b> &nbsp;·&nbsp; 2/17 (12%)</summary>
+<summary><b>1-D Dynamic Programming</b> &nbsp;·&nbsp; 3/17 (18%)</summary>
 
 - [x] 🟢 [Climbing Stairs](https://neetcode.io/problems/climbing-stairs)
 - [ ] 🟡 [Coin Change](https://neetcode.io/problems/coin-change)
@@ -309,7 +309,7 @@ la versione finale.
 - [ ] 🟡 [House Robber II](https://neetcode.io/problems/house-robber-ii)
 - [ ] 🟡 [Integer Break](https://neetcode.io/problems/integer-break)
 - [ ] 🟡 [Longest Increasing Subsequence](https://neetcode.io/problems/longest-increasing-subsequence)
-- [ ] 🟡 [Longest Palindromic Substring](https://neetcode.io/problems/longest-palindromic-substring)
+- [x] 🟡 [Longest Palindromic Substring](https://neetcode.io/problems/longest-palindromic-substring)
 - [ ] 🟡 [Maximum Product Subarray](https://neetcode.io/problems/maximum-product-subarray)
 - [ ] 🟢 [Min Cost Climbing Stairs](https://neetcode.io/problems/min-cost-climbing-stairs)
 - [ ] 🟢 [N-th Tribonacci Number](https://neetcode.io/problems/n-th-tribonacci-number)
@@ -452,7 +452,7 @@ la versione finale.
 </details>
 
 
-_Linguaggi: Python_ &nbsp;·&nbsp; _Ultimo aggiornamento: 2026-09-04_
+_Linguaggi: Python_ &nbsp;·&nbsp; _Ultimo aggiornamento: 2026-09-05_
 <!-- PROGRESS:END -->
 
 ## Come funziona il tracker
