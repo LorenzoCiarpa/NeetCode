@@ -21,19 +21,19 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 77 / 250 &nbsp;·&nbsp; 31%
+### NeetCode 250 &nbsp;·&nbsp; 78 / 250 &nbsp;·&nbsp; 31%
 
 `███████░░░░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **38** | **38** | **1** |
+| **Risolti** | **38** | **39** | **1** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
 |---------|--------:|-------:|:----------|
 | Arrays & Hashing | 6 | 22 | `███░░░░░░░░░` 27% |
-| Two Pointers | 5 | 13 | `█████░░░░░░░` 38% |
+| Two Pointers | 6 | 13 | `██████░░░░░░` 46% |
 | Sliding Window | 4 | 9 | `█████░░░░░░░` 44% |
 | Stack | 4 | 15 | `███░░░░░░░░░` 27% |
 | Binary Search | 4 | 14 | `███░░░░░░░░░` 29% |
@@ -82,9 +82,9 @@ la versione finale.
 </details>
 
 <details>
-<summary><b>Two Pointers</b> &nbsp;·&nbsp; 5/13 (38%)</summary>
+<summary><b>Two Pointers</b> &nbsp;·&nbsp; 6/13 (46%)</summary>
 
-- [ ] 🟡 [3Sum](https://neetcode.io/problems/three-integer-sum)
+- [x] 🟡 [3Sum](https://neetcode.io/problems/three-integer-sum)
 - [ ] 🟡 [4Sum](https://neetcode.io/problems/4sum)
 - [ ] 🟡 [Boats to Save People](https://neetcode.io/problems/boats-to-save-people)
 - [x] 🟡 [Container With Most Water](https://neetcode.io/problems/max-water-container)
@@ -452,7 +452,7 @@ la versione finale.
 </details>
 
 
-_Linguaggi: Python_ &nbsp;·&nbsp; _Ultimo aggiornamento: 2026-09-05_
+_Linguaggi: Python_ &nbsp;·&nbsp; _Ultimo aggiornamento: 2026-09-06_
 <!-- PROGRESS:END -->
 
 ## Come funziona il tracker
