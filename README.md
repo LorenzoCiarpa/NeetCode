@@ -21,13 +21,13 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 70 / 250 &nbsp;·&nbsp; 28%
+### NeetCode 250 &nbsp;·&nbsp; 71 / 250 &nbsp;·&nbsp; 28%
 
 `███████░░░░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **33** | **36** | **1** |
+| **Risolti** | **34** | **36** | **1** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
@@ -48,7 +48,7 @@ la versione finale.
 | 2-D Dynamic Programming | 2 | 16 | `██░░░░░░░░░░` 12% |
 | Greedy | 2 | 14 | `██░░░░░░░░░░` 14% |
 | Intervals | 0 | 7 | `░░░░░░░░░░░░` 0% |
-| Math & Geometry | 1 | 13 | `█░░░░░░░░░░░` 8% |
+| Math & Geometry | 2 | 13 | `██░░░░░░░░░░` 15% |
 | Bit Manipulation | 3 | 10 | `████░░░░░░░░` 30% |
 
 ### Dettaglio per pattern
@@ -377,7 +377,7 @@ la versione finale.
 </details>
 
 <details>
-<summary><b>Math & Geometry</b> &nbsp;·&nbsp; 1/13 (8%)</summary>
+<summary><b>Math & Geometry</b> &nbsp;·&nbsp; 2/13 (15%)</summary>
 
 - [ ] 🟡 [Detect Squares](https://neetcode.io/problems/count-squares)
 - [ ] 🟢 [Excel Sheet Column Title](https://neetcode.io/problems/excel-sheet-column-title)
@@ -385,7 +385,7 @@ la versione finale.
 - [x] 🟢 [Happy Number](https://neetcode.io/problems/non-cyclical-number)
 - [ ] 🟡 [Insert Greatest Common Divisors in Linked List](https://neetcode.io/problems/insert-greatest-common-divisors-in-linked-list)
 - [ ] 🟡 [Multiply Strings](https://neetcode.io/problems/multiply-strings)
-- [ ] 🟢 [Plus One](https://neetcode.io/problems/plus-one)
+- [x] 🟢 [Plus One](https://neetcode.io/problems/plus-one)
 - [ ] 🟡 [Pow(x, n)](https://neetcode.io/problems/pow-x-n)
 - [ ] 🟢 [Roman to Integer](https://neetcode.io/problems/roman-to-integer)
 - [ ] 🟡 [Rotate Image](https://neetcode.io/problems/rotate-matrix)
