@@ -21,13 +21,13 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 59 / 250 &nbsp;·&nbsp; 24%
+### NeetCode 250 &nbsp;·&nbsp; 60 / 250 &nbsp;·&nbsp; 24%
 
 `██████░░░░░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **25** | **33** | **1** |
+| **Risolti** | **25** | **34** | **1** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
@@ -42,7 +42,7 @@ la versione finale.
 | Tries | 2 | 4 | `██████░░░░░░` 50% |
 | Heap / Priority Queue | 4 | 12 | `████░░░░░░░░` 33% |
 | Backtracking | 6 | 16 | `████░░░░░░░░` 38% |
-| Graphs | 5 | 21 | `███░░░░░░░░░` 24% |
+| Graphs | 6 | 21 | `███░░░░░░░░░` 29% |
 | Advanced Graphs | 1 | 10 | `█░░░░░░░░░░░` 10% |
 | 1-D Dynamic Programming | 3 | 17 | `██░░░░░░░░░░` 18% |
 | 2-D Dynamic Programming | 2 | 16 | `██░░░░░░░░░░` 12% |
@@ -256,12 +256,12 @@ la versione finale.
 </details>
 
 <details>
-<summary><b>Graphs</b> &nbsp;·&nbsp; 5/21 (24%)</summary>
+<summary><b>Graphs</b> &nbsp;·&nbsp; 6/21 (29%)</summary>
 
 - [ ] 🟡 [Accounts Merge](https://neetcode.io/problems/accounts-merge)
 - [ ] 🟡 [Clone Graph](https://neetcode.io/problems/clone-graph)
 - [x] 🟡 [Course Schedule](https://neetcode.io/problems/course-schedule)
-- [ ] 🟡 [Course Schedule II](https://neetcode.io/problems/course-schedule-ii)
+- [x] 🟡 [Course Schedule II](https://neetcode.io/problems/course-schedule-ii)
 - [ ] 🟡 [Course Schedule IV](https://neetcode.io/problems/course-schedule-iv)
 - [ ] 🟡 [Evaluate Division](https://neetcode.io/problems/evaluate-division)
 - [ ] 🟢 [Find the Town Judge](https://neetcode.io/problems/find-the-town-judge)
