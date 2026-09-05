@@ -21,13 +21,13 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 61 / 250 &nbsp;·&nbsp; 24%
+### NeetCode 250 &nbsp;·&nbsp; 62 / 250 &nbsp;·&nbsp; 25%
 
 `██████░░░░░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **25** | **35** | **1** |
+| **Risolti** | **25** | **36** | **1** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
@@ -43,7 +43,7 @@ la versione finale.
 | Heap / Priority Queue | 4 | 12 | `████░░░░░░░░` 33% |
 | Backtracking | 6 | 16 | `████░░░░░░░░` 38% |
 | Graphs | 7 | 21 | `████░░░░░░░░` 33% |
-| Advanced Graphs | 1 | 10 | `█░░░░░░░░░░░` 10% |
+| Advanced Graphs | 2 | 10 | `██░░░░░░░░░░` 20% |
 | 1-D Dynamic Programming | 3 | 17 | `██░░░░░░░░░░` 18% |
 | 2-D Dynamic Programming | 2 | 16 | `██░░░░░░░░░░` 12% |
 | Greedy | 2 | 14 | `██░░░░░░░░░░` 14% |
@@ -283,14 +283,14 @@ la versione finale.
 </details>
 
 <details>
-<summary><b>Advanced Graphs</b> &nbsp;·&nbsp; 1/10 (10%)</summary>
+<summary><b>Advanced Graphs</b> &nbsp;·&nbsp; 2/10 (20%)</summary>
 
 - [ ] 🔴 [Alien Dictionary](https://neetcode.io/problems/foreign-dictionary)
 - [ ] 🔴 [Build a Matrix With Conditions](https://neetcode.io/problems/build-a-matrix-with-conditions)
 - [ ] 🟡 [Cheapest Flights Within K Stops](https://neetcode.io/problems/cheapest-flight-path)
 - [ ] 🔴 [Find Critical and Pseudo Critical Edges in Minimum Spanning Tree](https://neetcode.io/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)
 - [ ] 🔴 [Greatest Common Divisor Traversal](https://neetcode.io/problems/greatest-common-divisor-traversal)
-- [ ] 🟡 [Min Cost to Connect All Points](https://neetcode.io/problems/min-cost-to-connect-points)
+- [x] 🟡 [Min Cost to Connect All Points](https://neetcode.io/problems/min-cost-to-connect-points)
 - [x] 🟡 [Network Delay Time](https://neetcode.io/problems/network-delay-time)
 - [ ] 🟡 [Path with Minimum Effort](https://neetcode.io/problems/path-with-minimum-effort)
 - [ ] 🔴 [Reconstruct Itinerary](https://neetcode.io/problems/reconstruct-flight-path)
