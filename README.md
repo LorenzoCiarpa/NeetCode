@@ -21,13 +21,13 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 64 / 250 &nbsp;·&nbsp; 26%
+### NeetCode 250 &nbsp;·&nbsp; 65 / 250 &nbsp;·&nbsp; 26%
 
 `██████░░░░░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **27** | **36** | **1** |
+| **Risolti** | **28** | **36** | **1** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
@@ -38,7 +38,7 @@ la versione finale.
 | Stack | 3 | 15 | `██░░░░░░░░░░` 20% |
 | Binary Search | 4 | 14 | `███░░░░░░░░░` 29% |
 | Linked List | 3 | 14 | `███░░░░░░░░░` 21% |
-| Trees | 8 | 23 | `████░░░░░░░░` 35% |
+| Trees | 9 | 23 | `█████░░░░░░░` 39% |
 | Tries | 2 | 4 | `██████░░░░░░` 50% |
 | Heap / Priority Queue | 4 | 12 | `████░░░░░░░░` 33% |
 | Backtracking | 6 | 16 | `████░░░░░░░░` 38% |
@@ -177,7 +177,7 @@ la versione finale.
 </details>
 
 <details>
-<summary><b>Trees</b> &nbsp;·&nbsp; 8/23 (35%)</summary>
+<summary><b>Trees</b> &nbsp;·&nbsp; 9/23 (39%)</summary>
 
 - [x] 🟢 [Balanced Binary Tree](https://neetcode.io/problems/balanced-binary-tree)
 - [x] 🟢 [Binary Tree Inorder Traversal](https://neetcode.io/problems/binary-tree-inorder-traversal)
@@ -194,7 +194,7 @@ la versione finale.
 - [ ] 🟢 [Diameter of Binary Tree](https://neetcode.io/problems/binary-tree-diameter)
 - [ ] 🟡 [House Robber III](https://neetcode.io/problems/house-robber-iii)
 - [x] 🟡 [Insert into a Binary Search Tree](https://neetcode.io/problems/insert-into-a-binary-search-tree)
-- [ ] 🟢 [Invert Binary Tree](https://neetcode.io/problems/invert-a-binary-tree)
+- [x] 🟢 [Invert Binary Tree](https://neetcode.io/problems/invert-a-binary-tree)
 - [x] 🟡 [Kth Smallest Element In a Bst](https://neetcode.io/problems/kth-smallest-integer-in-bst)
 - [ ] 🟡 [Lowest Common Ancestor of a Binary Search Tree](https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree)
 - [ ] 🟢 [Maximum Depth of Binary Tree](https://neetcode.io/problems/depth-of-binary-tree)
