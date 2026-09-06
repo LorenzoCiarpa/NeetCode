@@ -21,13 +21,13 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 82 / 250 &nbsp;·&nbsp; 33%
+### NeetCode 250 &nbsp;·&nbsp; 83 / 250 &nbsp;·&nbsp; 33%
 
 `████████░░░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **38** | **43** | **1** |
+| **Risolti** | **38** | **44** | **1** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
@@ -37,7 +37,7 @@ la versione finale.
 | Sliding Window | 4 | 9 | `█████░░░░░░░` 44% |
 | Stack | 4 | 15 | `███░░░░░░░░░` 27% |
 | Binary Search | 4 | 14 | `███░░░░░░░░░` 29% |
-| Linked List | 3 | 14 | `███░░░░░░░░░` 21% |
+| Linked List | 4 | 14 | `███░░░░░░░░░` 29% |
 | Trees | 13 | 23 | `███████░░░░░` 57% |
 | Tries | 2 | 4 | `██████░░░░░░` 50% |
 | Heap / Priority Queue | 4 | 12 | `████░░░░░░░░` 33% |
@@ -157,7 +157,7 @@ la versione finale.
 </details>
 
 <details>
-<summary><b>Linked List</b> &nbsp;·&nbsp; 3/14 (21%)</summary>
+<summary><b>Linked List</b> &nbsp;·&nbsp; 4/14 (29%)</summary>
 
 - [ ] 🟡 [Add Two Numbers](https://neetcode.io/problems/add-two-numbers)
 - [ ] 🟡 [Copy List With Random Pointer](https://neetcode.io/problems/copy-linked-list-with-random-pointer)
@@ -168,7 +168,7 @@ la versione finale.
 - [x] 🟢 [Linked List Cycle](https://neetcode.io/problems/linked-list-cycle-detection)
 - [ ] 🔴 [Merge K Sorted Lists](https://neetcode.io/problems/merge-k-sorted-linked-lists)
 - [x] 🟢 [Merge Two Sorted Lists](https://neetcode.io/problems/merge-two-sorted-linked-lists)
-- [ ] 🟡 [Remove Nth Node From End of List](https://neetcode.io/problems/remove-node-from-end-of-linked-list)
+- [x] 🟡 [Remove Nth Node From End of List](https://neetcode.io/problems/remove-node-from-end-of-linked-list)
 - [ ] 🟡 [Reorder List](https://neetcode.io/problems/reorder-linked-list)
 - [x] 🟢 [Reverse Linked List](https://neetcode.io/problems/reverse-a-linked-list)
 - [ ] 🟡 [Reverse Linked List II](https://neetcode.io/problems/reverse-linked-list-ii)
