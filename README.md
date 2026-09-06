@@ -21,13 +21,13 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 87 / 250 &nbsp;·&nbsp; 35%
+### NeetCode 250 &nbsp;·&nbsp; 88 / 250 &nbsp;·&nbsp; 35%
 
 `████████░░░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **38** | **48** | **1** |
+| **Risolti** | **38** | **49** | **1** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
@@ -35,7 +35,7 @@ la versione finale.
 | Arrays & Hashing | 10 | 22 | `█████░░░░░░░` 45% |
 | Two Pointers | 6 | 13 | `██████░░░░░░` 46% |
 | Sliding Window | 4 | 9 | `█████░░░░░░░` 44% |
-| Stack | 6 | 15 | `█████░░░░░░░` 40% |
+| Stack | 7 | 15 | `██████░░░░░░` 47% |
 | Binary Search | 4 | 14 | `███░░░░░░░░░` 29% |
 | Linked List | 6 | 14 | `█████░░░░░░░` 43% |
 | Trees | 13 | 23 | `███████░░░░░` 57% |
@@ -116,14 +116,14 @@ la versione finale.
 </details>
 
 <details>
-<summary><b>Stack</b> &nbsp;·&nbsp; 6/15 (40%)</summary>
+<summary><b>Stack</b> &nbsp;·&nbsp; 7/15 (47%)</summary>
 
 - [ ] 🟡 [Asteroid Collision](https://neetcode.io/problems/asteroid-collision)
 - [x] 🟢 [Baseball Game](https://neetcode.io/problems/baseball-game)
 - [x] 🟡 [Car Fleet](https://neetcode.io/problems/car-fleet)
 - [x] 🟡 [Daily Temperatures](https://neetcode.io/problems/daily-temperatures)
 - [ ] 🟡 [Decode String](https://neetcode.io/problems/decode-string)
-- [ ] 🟡 [Evaluate Reverse Polish Notation](https://neetcode.io/problems/evaluate-reverse-polish-notation)
+- [x] 🟡 [Evaluate Reverse Polish Notation](https://neetcode.io/problems/evaluate-reverse-polish-notation)
 - [ ] 🟡 [Generate Parentheses](https://neetcode.io/problems/generate-parentheses)
 - [ ] 🟢 [Implement Queue using Stacks](https://neetcode.io/problems/implement-queue-using-stacks)
 - [x] 🟢 [Implement Stack Using Queues](https://neetcode.io/problems/implement-stack-using-queues)
