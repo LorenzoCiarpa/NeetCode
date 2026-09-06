@@ -21,18 +21,18 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 78 / 250 &nbsp;·&nbsp; 31%
+### NeetCode 250 &nbsp;·&nbsp; 79 / 250 &nbsp;·&nbsp; 32%
 
-`███████░░░░░░░░░░░░░░░░░`
+`████████░░░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **38** | **39** | **1** |
+| **Risolti** | **38** | **40** | **1** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
 |---------|--------:|-------:|:----------|
-| Arrays & Hashing | 6 | 22 | `███░░░░░░░░░` 27% |
+| Arrays & Hashing | 7 | 22 | `████░░░░░░░░` 32% |
 | Two Pointers | 6 | 13 | `██████░░░░░░` 46% |
 | Sliding Window | 4 | 9 | `█████░░░░░░░` 44% |
 | Stack | 4 | 15 | `███░░░░░░░░░` 27% |
@@ -54,7 +54,7 @@ la versione finale.
 ### Dettaglio per pattern
 
 <details>
-<summary><b>Arrays & Hashing</b> &nbsp;·&nbsp; 6/22 (27%)</summary>
+<summary><b>Arrays & Hashing</b> &nbsp;·&nbsp; 7/22 (32%)</summary>
 
 - [ ] 🟡 [Best Time to Buy And Sell Stock II](https://neetcode.io/problems/best-time-to-buy-and-sell-stock-ii)
 - [x] 🟢 [Concatenation of Array](https://neetcode.io/problems/concatenation-of-array)
@@ -63,7 +63,7 @@ la versione finale.
 - [ ] 🟢 [Design HashSet](https://neetcode.io/problems/design-hashset)
 - [ ] 🟡 [Encode and Decode Strings](https://neetcode.io/problems/string-encode-and-decode)
 - [ ] 🔴 [First Missing Positive](https://neetcode.io/problems/first-missing-positive)
-- [ ] 🟡 [Group Anagrams](https://neetcode.io/problems/anagram-groups)
+- [x] 🟡 [Group Anagrams](https://neetcode.io/problems/anagram-groups)
 - [ ] 🟢 [Longest Common Prefix](https://neetcode.io/problems/longest-common-prefix)
 - [ ] 🟡 [Longest Consecutive Sequence](https://neetcode.io/problems/longest-consecutive-sequence)
 - [ ] 🟢 [Majority Element](https://neetcode.io/problems/majority-element)
@@ -452,7 +452,7 @@ la versione finale.
 </details>
 
 
-_Linguaggi: Python_ &nbsp;·&nbsp; _Ultimo aggiornamento: 2026-09-05_
+_Linguaggi: Python_ &nbsp;·&nbsp; _Ultimo aggiornamento: 2026-09-06_
 <!-- PROGRESS:END -->
 
 ## Come funziona il tracker
