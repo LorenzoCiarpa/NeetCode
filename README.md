@@ -21,18 +21,18 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 80 / 250 &nbsp;·&nbsp; 32%
+### NeetCode 250 &nbsp;·&nbsp; 81 / 250 &nbsp;·&nbsp; 32%
 
 `████████░░░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **38** | **41** | **1** |
+| **Risolti** | **38** | **42** | **1** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
 |---------|--------:|-------:|:----------|
-| Arrays & Hashing | 8 | 22 | `████░░░░░░░░` 36% |
+| Arrays & Hashing | 9 | 22 | `█████░░░░░░░` 41% |
 | Two Pointers | 6 | 13 | `██████░░░░░░` 46% |
 | Sliding Window | 4 | 9 | `█████░░░░░░░` 44% |
 | Stack | 4 | 15 | `███░░░░░░░░░` 27% |
@@ -54,7 +54,7 @@ la versione finale.
 ### Dettaglio per pattern
 
 <details>
-<summary><b>Arrays & Hashing</b> &nbsp;·&nbsp; 8/22 (36%)</summary>
+<summary><b>Arrays & Hashing</b> &nbsp;·&nbsp; 9/22 (41%)</summary>
 
 - [ ] 🟡 [Best Time to Buy And Sell Stock II](https://neetcode.io/problems/best-time-to-buy-and-sell-stock-ii)
 - [x] 🟢 [Concatenation of Array](https://neetcode.io/problems/concatenation-of-array)
@@ -68,7 +68,7 @@ la versione finale.
 - [ ] 🟡 [Longest Consecutive Sequence](https://neetcode.io/problems/longest-consecutive-sequence)
 - [ ] 🟢 [Majority Element](https://neetcode.io/problems/majority-element)
 - [ ] 🟡 [Majority Element II](https://neetcode.io/problems/majority-element-ii)
-- [ ] 🟡 [Product of Array Except Self](https://neetcode.io/problems/products-of-array-discluding-self)
+- [x] 🟡 [Product of Array Except Self](https://neetcode.io/problems/products-of-array-discluding-self)
 - [x] 🟡 [Range Sum Query 2D Immutable](https://neetcode.io/problems/range-sum-query-2d-immutable)
 - [x] 🟢 [Remove Element](https://neetcode.io/problems/remove-element)
 - [ ] 🟡 [Sort Colors](https://neetcode.io/problems/sort-colors)
