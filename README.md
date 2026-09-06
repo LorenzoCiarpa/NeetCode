@@ -21,18 +21,18 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 79 / 250 &nbsp;·&nbsp; 32%
+### NeetCode 250 &nbsp;·&nbsp; 80 / 250 &nbsp;·&nbsp; 32%
 
 `████████░░░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **38** | **40** | **1** |
+| **Risolti** | **38** | **41** | **1** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
 |---------|--------:|-------:|:----------|
-| Arrays & Hashing | 7 | 22 | `████░░░░░░░░` 32% |
+| Arrays & Hashing | 8 | 22 | `████░░░░░░░░` 36% |
 | Two Pointers | 6 | 13 | `██████░░░░░░` 46% |
 | Sliding Window | 4 | 9 | `█████░░░░░░░` 44% |
 | Stack | 4 | 15 | `███░░░░░░░░░` 27% |
@@ -54,7 +54,7 @@ la versione finale.
 ### Dettaglio per pattern
 
 <details>
-<summary><b>Arrays & Hashing</b> &nbsp;·&nbsp; 7/22 (32%)</summary>
+<summary><b>Arrays & Hashing</b> &nbsp;·&nbsp; 8/22 (36%)</summary>
 
 - [ ] 🟡 [Best Time to Buy And Sell Stock II](https://neetcode.io/problems/best-time-to-buy-and-sell-stock-ii)
 - [x] 🟢 [Concatenation of Array](https://neetcode.io/problems/concatenation-of-array)
@@ -74,7 +74,7 @@ la versione finale.
 - [ ] 🟡 [Sort Colors](https://neetcode.io/problems/sort-colors)
 - [ ] 🟡 [Sort an Array](https://neetcode.io/problems/sort-an-array)
 - [ ] 🟡 [Subarray Sum Equals K](https://neetcode.io/problems/subarray-sum-equals-k)
-- [ ] 🟡 [Top K Frequent Elements](https://neetcode.io/problems/top-k-elements-in-list)
+- [x] 🟡 [Top K Frequent Elements](https://neetcode.io/problems/top-k-elements-in-list)
 - [x] 🟢 [Two Sum](https://neetcode.io/problems/two-integer-sum)
 - [x] 🟢 [Valid Anagram](https://neetcode.io/problems/is-anagram)
 - [ ] 🟡 [Valid Sudoku](https://neetcode.io/problems/valid-sudoku)
