@@ -21,13 +21,13 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 93 / 250 &nbsp;·&nbsp; 37%
+### NeetCode 250 &nbsp;·&nbsp; 94 / 250 &nbsp;·&nbsp; 38%
 
 `█████████░░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **38** | **54** | **1** |
+| **Risolti** | **38** | **55** | **1** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
@@ -42,7 +42,7 @@ la versione finale.
 | Tries | 2 | 4 | `██████░░░░░░` 50% |
 | Heap / Priority Queue | 4 | 12 | `████░░░░░░░░` 33% |
 | Backtracking | 7 | 16 | `█████░░░░░░░` 44% |
-| Graphs | 9 | 21 | `█████░░░░░░░` 43% |
+| Graphs | 10 | 21 | `██████░░░░░░` 48% |
 | Advanced Graphs | 2 | 10 | `██░░░░░░░░░░` 20% |
 | 1-D Dynamic Programming | 4 | 17 | `███░░░░░░░░░` 24% |
 | 2-D Dynamic Programming | 2 | 16 | `██░░░░░░░░░░` 12% |
@@ -256,7 +256,7 @@ la versione finale.
 </details>
 
 <details>
-<summary><b>Graphs</b> &nbsp;·&nbsp; 9/21 (43%)</summary>
+<summary><b>Graphs</b> &nbsp;·&nbsp; 10/21 (48%)</summary>
 
 - [ ] 🟡 [Accounts Merge](https://neetcode.io/problems/accounts-merge)
 - [x] 🟡 [Clone Graph](https://neetcode.io/problems/clone-graph)
@@ -269,7 +269,7 @@ la versione finale.
 - [ ] 🟢 [Island Perimeter](https://neetcode.io/problems/island-perimeter)
 - [x] 🟡 [Max Area of Island](https://neetcode.io/problems/max-area-of-island)
 - [ ] 🟡 [Minimum Height Trees](https://neetcode.io/problems/minimum-height-trees)
-- [ ] 🟡 [Number of Connected Components In An Undirected Graph](https://neetcode.io/problems/count-connected-components)
+- [x] 🟡 [Number of Connected Components In An Undirected Graph](https://neetcode.io/problems/count-connected-components)
 - [x] 🟡 [Number of Islands](https://neetcode.io/problems/count-number-of-islands)
 - [ ] 🟡 [Open The Lock](https://neetcode.io/problems/open-the-lock)
 - [ ] 🟡 [Pacific Atlantic Water Flow](https://neetcode.io/problems/pacific-atlantic-water-flow)
@@ -452,7 +452,7 @@ la versione finale.
 </details>
 
 
-_Linguaggi: Python_ &nbsp;·&nbsp; _Ultimo aggiornamento: 2026-09-07_
+_Linguaggi: Python_ &nbsp;·&nbsp; _Ultimo aggiornamento: 2026-09-08_
 <!-- PROGRESS:END -->
 
 ## Come funziona il tracker
