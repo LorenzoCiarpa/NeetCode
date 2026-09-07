@@ -21,13 +21,13 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 88 / 250 &nbsp;·&nbsp; 35%
+### NeetCode 250 &nbsp;·&nbsp; 89 / 250 &nbsp;·&nbsp; 36%
 
-`████████░░░░░░░░░░░░░░░░`
+`█████████░░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **38** | **49** | **1** |
+| **Risolti** | **38** | **50** | **1** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
@@ -36,7 +36,7 @@ la versione finale.
 | Two Pointers | 6 | 13 | `██████░░░░░░` 46% |
 | Sliding Window | 4 | 9 | `█████░░░░░░░` 44% |
 | Stack | 7 | 15 | `██████░░░░░░` 47% |
-| Binary Search | 4 | 14 | `███░░░░░░░░░` 29% |
+| Binary Search | 5 | 14 | `████░░░░░░░░` 36% |
 | Linked List | 6 | 14 | `█████░░░░░░░` 43% |
 | Trees | 13 | 23 | `███████░░░░░` 57% |
 | Tries | 2 | 4 | `██████░░░░░░` 50% |
@@ -137,11 +137,11 @@ la versione finale.
 </details>
 
 <details>
-<summary><b>Binary Search</b> &nbsp;·&nbsp; 4/14 (29%)</summary>
+<summary><b>Binary Search</b> &nbsp;·&nbsp; 5/14 (36%)</summary>
 
 - [x] 🟢 [Binary Search](https://neetcode.io/problems/binary-search)
 - [ ] 🟡 [Capacity to Ship Packages Within D Days](https://neetcode.io/problems/capacity-to-ship-packages-within-d-days)
-- [ ] 🟡 [Find Minimum In Rotated Sorted Array](https://neetcode.io/problems/find-minimum-in-rotated-sorted-array)
+- [x] 🟡 [Find Minimum In Rotated Sorted Array](https://neetcode.io/problems/find-minimum-in-rotated-sorted-array)
 - [ ] 🔴 [Find in Mountain Array](https://neetcode.io/problems/find-in-mountain-array)
 - [x] 🟢 [Guess Number Higher Or Lower](https://neetcode.io/problems/guess-number-higher-or-lower)
 - [x] 🟡 [Koko Eating Bananas](https://neetcode.io/problems/eating-bananas)
@@ -452,7 +452,7 @@ la versione finale.
 </details>
 
 
-_Linguaggi: Python_ &nbsp;·&nbsp; _Ultimo aggiornamento: 2026-09-06_
+_Linguaggi: Python_ &nbsp;·&nbsp; _Ultimo aggiornamento: 2026-09-07_
 <!-- PROGRESS:END -->
 
 ## Come funziona il tracker
