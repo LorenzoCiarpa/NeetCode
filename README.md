@@ -21,13 +21,13 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 90 / 250 &nbsp;·&nbsp; 36%
+### NeetCode 250 &nbsp;·&nbsp; 91 / 250 &nbsp;·&nbsp; 36%
 
 `█████████░░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **38** | **51** | **1** |
+| **Risolti** | **38** | **52** | **1** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
@@ -38,7 +38,7 @@ la versione finale.
 | Stack | 7 | 15 | `██████░░░░░░` 47% |
 | Binary Search | 5 | 14 | `████░░░░░░░░` 36% |
 | Linked List | 6 | 14 | `█████░░░░░░░` 43% |
-| Trees | 14 | 23 | `███████░░░░░` 61% |
+| Trees | 15 | 23 | `████████░░░░` 65% |
 | Tries | 2 | 4 | `██████░░░░░░` 50% |
 | Heap / Priority Queue | 4 | 12 | `████░░░░░░░░` 33% |
 | Backtracking | 7 | 16 | `█████░░░░░░░` 44% |
@@ -177,7 +177,7 @@ la versione finale.
 </details>
 
 <details>
-<summary><b>Trees</b> &nbsp;·&nbsp; 14/23 (61%)</summary>
+<summary><b>Trees</b> &nbsp;·&nbsp; 15/23 (65%)</summary>
 
 - [x] 🟢 [Balanced Binary Tree](https://neetcode.io/problems/balanced-binary-tree)
 - [x] 🟢 [Binary Tree Inorder Traversal](https://neetcode.io/problems/binary-tree-inorder-traversal)
@@ -188,7 +188,7 @@ la versione finale.
 - [x] 🟡 [Binary Tree Right Side View](https://neetcode.io/problems/binary-tree-right-side-view)
 - [ ] 🟡 [Construct Binary Tree From Preorder And Inorder Traversal](https://neetcode.io/problems/binary-tree-from-preorder-and-inorder-traversal)
 - [ ] 🟡 [Construct Quad Tree](https://neetcode.io/problems/construct-quad-tree)
-- [ ] 🟡 [Count Good Nodes In Binary Tree](https://neetcode.io/problems/count-good-nodes-in-binary-tree)
+- [x] 🟡 [Count Good Nodes In Binary Tree](https://neetcode.io/problems/count-good-nodes-in-binary-tree)
 - [ ] 🟡 [Delete Leaves With a Given Value](https://neetcode.io/problems/delete-leaves-with-a-given-value)
 - [x] 🟡 [Delete Node in a BST](https://neetcode.io/problems/delete-node-in-a-bst)
 - [x] 🟢 [Diameter of Binary Tree](https://neetcode.io/problems/binary-tree-diameter)
