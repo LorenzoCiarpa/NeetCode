@@ -21,13 +21,13 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 89 / 250 &nbsp;·&nbsp; 36%
+### NeetCode 250 &nbsp;·&nbsp; 90 / 250 &nbsp;·&nbsp; 36%
 
 `█████████░░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **38** | **50** | **1** |
+| **Risolti** | **38** | **51** | **1** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
@@ -38,7 +38,7 @@ la versione finale.
 | Stack | 7 | 15 | `██████░░░░░░` 47% |
 | Binary Search | 5 | 14 | `████░░░░░░░░` 36% |
 | Linked List | 6 | 14 | `█████░░░░░░░` 43% |
-| Trees | 13 | 23 | `███████░░░░░` 57% |
+| Trees | 14 | 23 | `███████░░░░░` 61% |
 | Tries | 2 | 4 | `██████░░░░░░` 50% |
 | Heap / Priority Queue | 4 | 12 | `████░░░░░░░░` 33% |
 | Backtracking | 7 | 16 | `█████░░░░░░░` 44% |
@@ -177,7 +177,7 @@ la versione finale.
 </details>
 
 <details>
-<summary><b>Trees</b> &nbsp;·&nbsp; 13/23 (57%)</summary>
+<summary><b>Trees</b> &nbsp;·&nbsp; 14/23 (61%)</summary>
 
 - [x] 🟢 [Balanced Binary Tree](https://neetcode.io/problems/balanced-binary-tree)
 - [x] 🟢 [Binary Tree Inorder Traversal](https://neetcode.io/problems/binary-tree-inorder-traversal)
@@ -196,7 +196,7 @@ la versione finale.
 - [x] 🟡 [Insert into a Binary Search Tree](https://neetcode.io/problems/insert-into-a-binary-search-tree)
 - [x] 🟢 [Invert Binary Tree](https://neetcode.io/problems/invert-a-binary-tree)
 - [x] 🟡 [Kth Smallest Element In a Bst](https://neetcode.io/problems/kth-smallest-integer-in-bst)
-- [ ] 🟡 [Lowest Common Ancestor of a Binary Search Tree](https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree)
+- [x] 🟡 [Lowest Common Ancestor of a Binary Search Tree](https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree)
 - [x] 🟢 [Maximum Depth of Binary Tree](https://neetcode.io/problems/depth-of-binary-tree)
 - [x] 🟢 [Same Tree](https://neetcode.io/problems/same-binary-tree)
 - [ ] 🔴 [Serialize And Deserialize Binary Tree](https://neetcode.io/problems/serialize-and-deserialize-binary-tree)
