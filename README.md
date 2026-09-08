@@ -21,13 +21,13 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 97 / 250 &nbsp;·&nbsp; 39%
+### NeetCode 250 &nbsp;·&nbsp; 98 / 250 &nbsp;·&nbsp; 39%
 
 `█████████░░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **38** | **58** | **1** |
+| **Risolti** | **38** | **59** | **1** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
@@ -46,7 +46,7 @@ la versione finale.
 | Advanced Graphs | 2 | 10 | `██░░░░░░░░░░` 20% |
 | 1-D Dynamic Programming | 4 | 17 | `███░░░░░░░░░` 24% |
 | 2-D Dynamic Programming | 2 | 16 | `██░░░░░░░░░░` 12% |
-| Greedy | 2 | 14 | `██░░░░░░░░░░` 14% |
+| Greedy | 3 | 14 | `███░░░░░░░░░` 21% |
 | Intervals | 0 | 7 | `░░░░░░░░░░░░` 0% |
 | Math & Geometry | 2 | 13 | `██░░░░░░░░░░` 15% |
 | Bit Manipulation | 5 | 10 | `██████░░░░░░` 50% |
@@ -344,13 +344,13 @@ la versione finale.
 </details>
 
 <details>
-<summary><b>Greedy</b> &nbsp;·&nbsp; 2/14 (14%)</summary>
+<summary><b>Greedy</b> &nbsp;·&nbsp; 3/14 (21%)</summary>
 
 - [ ] 🔴 [Candy](https://neetcode.io/problems/candy)
 - [ ] 🟡 [Dota2 Senate](https://neetcode.io/problems/dota2-senate)
 - [ ] 🟡 [Gas Station](https://neetcode.io/problems/gas-station)
 - [ ] 🟡 [Hand of Straights](https://neetcode.io/problems/hand-of-straights)
-- [ ] 🟡 [Jump Game](https://neetcode.io/problems/jump-game)
+- [x] 🟡 [Jump Game](https://neetcode.io/problems/jump-game)
 - [ ] 🟡 [Jump Game II](https://neetcode.io/problems/jump-game-ii)
 - [ ] 🟡 [Jump Game VII](https://neetcode.io/problems/jump-game-vii)
 - [ ] 🟢 [Lemonade Change](https://neetcode.io/problems/lemonade-change)
