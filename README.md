@@ -452,7 +452,7 @@ la versione finale.
 </details>
 
 
-_Linguaggi: Python_ &nbsp;·&nbsp; _Ultimo aggiornamento: 2026-09-10_
+_Linguaggi: Python_ &nbsp;·&nbsp; _Ultimo aggiornamento: 2026-09-11_
 <!-- PROGRESS:END -->
 
 ## Come funziona il tracker
