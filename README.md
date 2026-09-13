@@ -21,13 +21,13 @@ la versione finale.
 ## Progresso
 
 <!-- PROGRESS:START -->
-### NeetCode 250 &nbsp;·&nbsp; 101 / 250 &nbsp;·&nbsp; 40%
+### NeetCode 250 &nbsp;·&nbsp; 102 / 250 &nbsp;·&nbsp; 41%
 
 `██████████░░░░░░░░░░░░░░`
 
 | | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:--|:--:|:--:|:--:|
-| **Risolti** | **38** | **62** | **1** |
+| **Risolti** | **39** | **62** | **1** |
 | **Totale lista** | 60 | 155 | 35 |
 
 | Pattern | Risolti | Totale | Progresso |
@@ -36,7 +36,7 @@ la versione finale.
 | Two Pointers | 6 | 13 | `██████░░░░░░` 46% |
 | Sliding Window | 4 | 9 | `█████░░░░░░░` 44% |
 | Stack | 7 | 15 | `██████░░░░░░` 47% |
-| Binary Search | 5 | 14 | `████░░░░░░░░` 36% |
+| Binary Search | 6 | 14 | `█████░░░░░░░` 43% |
 | Linked List | 6 | 14 | `█████░░░░░░░` 43% |
 | Trees | 16 | 23 | `████████░░░░` 70% |
 | Tries | 2 | 4 | `██████░░░░░░` 50% |
@@ -137,7 +137,7 @@ la versione finale.
 </details>
 
 <details>
-<summary><b>Binary Search</b> &nbsp;·&nbsp; 5/14 (36%)</summary>
+<summary><b>Binary Search</b> &nbsp;·&nbsp; 6/14 (43%)</summary>
 
 - [x] 🟢 [Binary Search](https://neetcode.io/problems/binary-search)
 - [ ] 🟡 [Capacity to Ship Packages Within D Days](https://neetcode.io/problems/capacity-to-ship-packages-within-d-days)
@@ -148,7 +148,7 @@ la versione finale.
 - [ ] 🔴 [Median of Two Sorted Arrays](https://neetcode.io/problems/median-of-two-sorted-arrays)
 - [ ] 🟡 [Search In Rotated Sorted Array](https://neetcode.io/problems/find-target-in-rotated-sorted-array)
 - [ ] 🟡 [Search In Rotated Sorted Array II](https://neetcode.io/problems/search-in-rotated-sorted-array-ii)
-- [ ] 🟢 [Search Insert Position](https://neetcode.io/problems/search-insert-position)
+- [x] 🟢 [Search Insert Position](https://neetcode.io/problems/search-insert-position)
 - [x] 🟡 [Search a 2D Matrix](https://neetcode.io/problems/search-2d-matrix)
 - [ ] 🔴 [Split Array Largest Sum](https://neetcode.io/problems/split-array-largest-sum)
 - [ ] 🟢 [Sqrt(x)](https://neetcode.io/problems/sqrtx)
@@ -452,7 +452,7 @@ la versione finale.
 </details>
 
 
-_Linguaggi: Python_ &nbsp;·&nbsp; _Ultimo aggiornamento: 2026-09-11_
+_Linguaggi: Python_ &nbsp;·&nbsp; _Ultimo aggiornamento: 2026-09-13_
 <!-- PROGRESS:END -->
 
 ## Come funziona il tracker
